@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋</h1>
-<samp>I'm [Your Name], and I'm thrilled to have you visit my GitHub profile. I am an IoT and Cloud Engineer with a deep passion for smart charging, Industrial IoT, and automotive technologies. My particular focus lies in energy transaction, de-carbonization processes, and the exciting world of streaming data analysis. I believe that combining cutting-edge technologies with sustainable practices can pave the way for a greener and more efficient future.</samp>
+<samp>I'm Mario, and I'm thrilled to have you visit my GitHub profile. I am an IoT and Cloud Engineer with a deep passion for smart charging, Industrial IoT, and automotive technologies. My particular focus lies in energy transaction, de-carbonization processes, and the exciting world of streaming data analysis. I believe that combining cutting-edge technologies with sustainable practices can pave the way for a greener and more efficient future.</samp>
 
 ## What You'll Find Here
 
@@ -28,7 +28,7 @@
 
 ## Connect with Me
 
-I'm always excited to collaborate, learn, and share ideas with fellow tech enthusiasts. Feel free to reach out to me through email or connect with me on LinkedIn (link your LinkedIn profile here). Let's work together to make a meaningful impact on the world through IoT and Cloud technologies.
+I'm always excited to collaborate, learn, and share ideas with fellow tech enthusiasts. Feel free to reach out to me through email or connect with me on LinkedIn [here](https://www.linkedin.com/in/mario-sessa/). Let's work together to make a meaningful impact on the world through IoT and Cloud technologies.
 
 Thank you for stopping by! Enjoy exploring my projects, and I hope they inspire you to embark on your own journey of innovation and sustainability. 🌱💡
 
