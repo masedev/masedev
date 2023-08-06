@@ -28,7 +28,7 @@
 
 ## Connect with Me
 
-I'm always excited to collaborate, learn, and share ideas with fellow tech enthusiasts. Feel free to reach out to me through email or connect with me on LinkedIn [here](https://www.linkedin.com/in/mario-sessa/). Let's work together to make a meaningful impact on the world through IoT and Cloud technologies.
+<samp>I'm always excited to collaborate, learn, and share ideas with fellow tech enthusiasts. Feel free to reach out to me through email or connect with me on LinkedIn [here](https://www.linkedin.com/in/mario-sessa/). Let's work together to make a meaningful impact on the world through IoT and Cloud technologies.</samp>
 
-Thank you for stopping by! Enjoy exploring my projects, and I hope they inspire you to embark on your own journey of innovation and sustainability. 🌱💡
+<samp> Thank you for stopping by! Enjoy exploring my projects, and I hope they inspire you to embark on your own journey of innovation and sustainability. 🌱💡</samp>
 
